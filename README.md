@@ -1,4 +1,13 @@
-  
+  <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+
 - 📂 Check our newst public [Repos](https://github.com/SURENABOT?tab=repositories)
 - 📸 Join our [Instagram](https://www.instagram.com/surenabot/) community
 - 👤 You can contact us on [Whatsapp](https://wa.me/989301860610) messenger
