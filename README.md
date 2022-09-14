@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surenabot&show_icons=true&theme=radical" alt="surenabot" />
   
-- 🔭 Check our newst public reposity's
-- 🌱 Join our [Instagram](https://www.instagram.com/surenabot/) community
+- 📂 Check our newst public reposity's
+- 📸 Join our [Instagram](https://www.instagram.com/surenabot/) community
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
