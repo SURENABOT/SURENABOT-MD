@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surenabot&show_icons=true&theme=radical" alt="surenabot" />
   
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Check our newst public reposity's
+- 🌱 Join our [Instagram](https://instagram.com/surenabot?igshid=YmMyMTA2M2Y) page
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
