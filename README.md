@@ -35,7 +35,7 @@
 
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=SURENABOT&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
