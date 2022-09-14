@@ -21,7 +21,6 @@ Our whatsapp bot maker 🤖
 </div>
 
 ---
-  <br />
  <br /> 
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surenabot&show_icons=true&theme=radical" alt="surenabot" />
