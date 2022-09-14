@@ -12,6 +12,8 @@ Our whatsapp bot maker 🤖
 </div>
   
   <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+  
+  ---
 
  ### Language & Tools:
 
