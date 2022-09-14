@@ -1,5 +1,10 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surenabot&show_icons=true&theme=radical" alt="surenabot" />
   
+### Connect with me:
+
+[![website](./img/instagram-light.svg)](https://instagram.com/surenabot#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/surenabot#gh-dark-mode-only)
+  
 ### Language & Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
