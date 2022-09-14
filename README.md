@@ -1,8 +1,8 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surenabot&show_icons=true&theme=radical" alt="surenabot" />
   
-- 📂 Check our newst public [Repos](https://github.com/SURENABOT?tab=repositories)
-- 📸 Join our [Instagram](https://www.instagram.com/surenabot/) community
-- 👤 You can contact us on [Whatsapp](https://wa.me/989301860610) messenger
+📂 Check our newst public [Repos](https://github.com/SURENABOT?tab=repositories)
+📸 Join our [Instagram](https://www.instagram.com/surenabot/) community
+👤 You can contact us on [Whatsapp](https://wa.me/989301860610) messenger
   
 ### Language & Tools:
 
