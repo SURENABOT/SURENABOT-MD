@@ -2,10 +2,7 @@
   
 - 📂 Check our newst public reposity's
 - 📸 Join our [Instagram](https://www.instagram.com/surenabot/) community
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles]
+- 👤 You can contact developer on [Whatsapp](https://wa.me/989301860610) messenger
   
 ### Language & Tools:
 
