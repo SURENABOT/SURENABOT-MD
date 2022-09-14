@@ -11,9 +11,7 @@ Our whatsapp bot maker 🤖
   <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right"
  </div>
 
-<br /> <br /> <br /> <br /> <br />
-
-  <h2 align="left">Language & tools: <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <h2 align="left">Language & tools: <br /> <br />
 
   
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
