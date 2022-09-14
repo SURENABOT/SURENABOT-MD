@@ -13,7 +13,7 @@ Our whatsapp bot maker 🤖
 
 <br /> <br /> <br /> <br /> <br />
 
-  <h2 align="center">⚡ Stats ⚡</h2> Our whatsapp bot maker 🤖
+  <h2 align="left">⚡ Stats ⚡</h2> Our whatsapp bot maker 🤖
 
   
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
