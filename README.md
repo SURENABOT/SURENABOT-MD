@@ -1,14 +1,14 @@
 # SURENABOT-MD
 
-<a href="https://visitor-badge.glitch.me/badge?page_id=Fokusdotid/Family-MD"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=Fokusdotid/Family-MD"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fokusdotid/Family-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Fokusdotid/Family-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Fokusdotid/Family-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Fokusdotid/Family-MD?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/Fokusdotid/Family-MD?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Fokusdotid/Family-MD?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Fokusdotid/Family-MD?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Fokusdotid/Family-MD?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://visitor-badge.glitch.me/badge?page_id=SURENABOT/SURENABOT-MD"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=SURENABOT/SURENABOT-MD"></a>
+<a href="https://github.com/SURENABOT/SURENABOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SURENABOT/SURENABOT-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/SURENABOT/SURENABOT-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/SURENABOT/SURENABOT-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/SURENABOT/SURENABOT-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/SURENABOT/SURENABOT-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/SURENABOT/SURENABOT-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/SURENABOT/SURENABOT-MD?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/SURENABOT/SURENABOT-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/SURENABOT/SURENABOT-MD?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/SURENABOT/SURENABOT-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Fokusdotid/Family-MD?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/SURENABOT/SURENABOT-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/SURENABOT/SURENABOT-MD?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/SURENABOT/SURENABOT-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/SURENABOT/SURENABOT-MD?label=PullRequest&color=red&style=flat-square"></a>
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fokusdotid/Family-MD)
