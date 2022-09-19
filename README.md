@@ -27,6 +27,5 @@
  
 ---------
 
-##### Developers
-[![AMIR](https://github.com/nextamir.png?size=100)](https://github.com/nextamir)
-[![HYNO](https://github.com/HyNO-IR.png?size=100)](https://github.com/HyNO-IR)
+##### Developer: [Nextamir](https://github.com/nextamir)
+##### Plugins: [HyNO-IR](https://github.com/HyNO-IR)
