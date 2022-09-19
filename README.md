@@ -13,11 +13,11 @@
 ## WHATSAPP GROUP
 [![BOT DISCUSSION GROUP](https://img.shields.io/badge/SURENA%20ENGLISH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlPeRbssqcdILgreqcYBR8) 
 
-## Run on replit
+## SETUP
 
-* Create an account on [Replit](https://replit.com)
-* Click on "My Repls" in the left menu
-* Click the "New Folder" button and create a folder with any name
+1. Create an account on [Replit](https://replit.com)
+2. Click on "My Repls" in the left menu
+3. Click the "New Folder" button and create a folder with any name
 
 ---------
 ## UNTUK PENGGUNA HEROKU
