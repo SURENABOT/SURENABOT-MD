@@ -18,27 +18,22 @@
 		"BOT_NAME": {
 			"description": "Your whatsapp bot name",
 			"required": false,
-			"value": "false"
+			"value": "SURENA"
 		},
 		"WM_MSG": {
 			"description": "Messages footer text",
 			"required": false,
-			"value": "false"
+			"value": "SURENA"
 		},
 		"STICKER_PACK": {
 			"description": "Stickers package name",
 			"required": false,
-			"value": "false"
+			"value": "SURENA"
 		},
 		"STICKER_AUTHOR": {
 			"description": "Stickers author name",
 			"required": false,
-			"value": "false"
-		},
-		"STICKER_PACKNAME": {
-			"description": "sticker pack info",
-			"required": true,
-			"value": "❤️,LyFE"
+			"value": "BOT"
 		}
 	},
 	"addons": [
