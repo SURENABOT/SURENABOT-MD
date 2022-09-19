@@ -17,7 +17,8 @@
 
 1. Create an account on [Replit](https://replit.com)
 2. Click on ```My Repls``` in the left menu
-3. Click the ```New Folder``` button and create a folder with any name
+3. Click the ```New Folder``` button and create a folder with any name you want
+4. Open folder and click on ```New Repl```
 
 ---------
 ## UNTUK PENGGUNA HEROKU
