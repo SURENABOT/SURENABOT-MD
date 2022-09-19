@@ -13,21 +13,10 @@
 ## WHATSAPP GROUP
 [![BOT DISCUSSION GROUP](https://img.shields.io/badge/SURENA%20ENGLISH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlPeRbssqcdILgreqcYBR8) 
 
-## Run using [Replit](https://replit.com)
+## How to run?
 
-* Download Termux [`Klik Disini`](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk)
+* Create an account [Replit](https://replit.com)
 
-```
-$ pkg update && upgrade -y
-$ apt update && upgrade -y
-$ pkg install ffmpeg
-$ pkg install nodejs-lts
-$ pkg install git
-$ git clone https://github.com/Fokusdotid/Family-MD.git
-$ cd Family-MD
-$ npm i
-$ node .
-```
 ---------
 ## UNTUK PENGGUNA HEROKU
 
