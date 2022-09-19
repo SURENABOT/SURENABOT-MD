@@ -2,15 +2,13 @@ FROM        node:lts-buster
 
 LABEL       author="SURENABOT" maintainer="surenawabot@gmail.com"
 
-RUN         apt update && apt upgrade
-            apt install git -y
-            apt install nodejs -y
-            apt install ffmpeg -y
-            apt install imagemagick -y
-            git clone https://github.com/surenabot/surenabot-md
-            cd wabot-aq
-            npm install
-            npm update
+RUN         apt-get update && \
+  apt-get install -y \
+  ffmpeg \
+  imagemagick \
+  webp && \
+  apt-get upgrade -y && \
+  rm -rf /var/lib/apt/lists/*
 
 
 USER        container
