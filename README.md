@@ -23,6 +23,8 @@
 6. Insert https://github.com/SURENABOT/SURENABOT-MD in GitHub URL and click on ```Import from GitHub``` button
 7. After files imported click on ```Run``` button
 8. In your whatsapp app click on ```Linked devices``` options and click on ```LINK A DEVICE``` button
+9. Scan QR code on replit terminal using your whatsapp camera
+10. Now enjoy [SURENA](https://github.com/SURENABOT)!
 
 ---------
 ## UNTUK PENGGUNA HEROKU
