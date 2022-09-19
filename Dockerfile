@@ -1,4 +1,4 @@
-FROM        quay.io/SURENABOT/SURENABOT:multidevice
+FROM        quay.io/surenabot/surenabot:multidevice
 
 LABEL       author="SURENABOT" maintainer="surenawabot@gmail.com"
 
