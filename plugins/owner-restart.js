@@ -5,3 +5,4 @@ let handler = async (m) => {
 handler.command = /^(restart)$/i
 
 module.exports = handler
+handler.owner = true
