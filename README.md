@@ -19,8 +19,10 @@
 2. Click on ```My Repls``` in the left menu
 3. Click the ```New Folder``` button and create a folder with any name you want
 4. Open folder and click on ```New Repl``` button
-5. Click on ```Import from GitHub``` options
+5. Click on ```Import from GitHub``` option
 6. Insert https://github.com/SURENABOT/SURENABOT-MD in GitHub URL and click on ```Import from GitHub``` button
+7. After files imported click on ```Run``` button
+8. In your whatsapp app click on ```Linked devices``` options and click on ```LINK A DEVICE``` button
 
 ---------
 ## UNTUK PENGGUNA HEROKU
