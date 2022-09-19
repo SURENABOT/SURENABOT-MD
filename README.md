@@ -27,6 +27,6 @@
  
 ---------
 
-##### Special Thanks to
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
+##### Developers
+[![AMIR](https://github.com/nextamir.png?size=100)](https://github.com/nextamir)
+[![HYNO](https://github.com/HyNO-IR.png?size=100)](https://github.com/HyNO-IR)
