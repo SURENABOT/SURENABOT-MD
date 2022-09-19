@@ -42,11 +42,11 @@ let fs = require('fs')
 
 // ====== Bot setting ====== \\
 global.bot = process.env.BOT_NAME || 'SURENA',
-global.wm = process.env.WM_MSG || 'BOT',
+global.wm = process.env.WM_MSG || 'SURENA',
 
 // ====== Stickers WM ====== \\
 global.packname = process.env.STICKER_PACK || bot,
-global.author = process.env.STICKER_AUTHOR || wm,
+global.author = process.env.STICKER_AUTHOR || 'BOT',
 
 // ====== Dont touch ====== \\
 global.owner = JSON.parse(fs.readFileSync('./settings/owner.json'))
