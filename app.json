@@ -13,7 +13,7 @@
     "multi-device"
   ],
 	"repository": "https://github.com/SURENABOT/SURENABOT-MD",
-	"stack": "container",
+	"stack": "/home/container",
 	"env": {
 		"BOT_NAME": {
 			"description": "Your whatsapp bot name",
