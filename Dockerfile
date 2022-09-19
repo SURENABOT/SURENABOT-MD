@@ -1,4 +1,4 @@
-FROM        --platform=$TARGETOS/$TARGETARCH node:17-bullseye-slim
+FROM        quay.io/SURENABOT/SURENABOT:multidevice
 
 LABEL       author="SURENABOT" maintainer="surenawabot@gmail.com"
 
