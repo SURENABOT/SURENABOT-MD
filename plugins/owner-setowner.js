@@ -1,7 +1,6 @@
 let fs = require('fs')
 
-let handler = async (m, { conn, args, isOwner }) => {
-    if (!isOwner) return
+let handler = async (m, { conn, args }) => {
     const json = JSON.parse(fs.readFileSync('./settings/owner.json'))
 
     let who
@@ -31,5 +30,6 @@ let handler = async (m, { conn, args, isOwner }) => {
     require('../config')
 }
 handler.command = /^(addowner)$/i
+handler.owner = true
 
 module.exports = handler
