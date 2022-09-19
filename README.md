@@ -15,7 +15,7 @@
 
 ## How to run?
 
-* Create an account on [![Replit[](https://repl.it/badge/github/quiec/whatsasena](https://replit.com))](https://replit.com)
+* Create an account on [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-MDV2?v=1)
 * Click on "My Repls" in the left menu
 * Click the "New Folder" button and create a folder with any name
 
