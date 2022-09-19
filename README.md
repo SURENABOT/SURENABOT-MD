@@ -11,7 +11,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fokusdotid/Family-MD)
 ## WHATSAPP GROUP
-[![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlPeRbssqcdILgreqcYBR8) 
+[![BOT DISCUSSION GROUP](https://img.shields.io/badge/SURENA%20EN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlPeRbssqcdILgreqcYBR8) 
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
 
