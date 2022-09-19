@@ -3,7 +3,17 @@
   "description": "Customizable whatsapp bot",
   "repository": "https://github.com/SURENABOT/SURENABOT-MD",
   "logo": "https://s24.picofile.com/file/8453243900/Surena.jpg",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "SURENA", "bot-md", "SURENABOT", "wabot", "multi-device", "MD"],
+  "keywords": [
+    "bot",
+    "surena",
+    "surenabot",
+    "whatsapp",
+    "whatsappbot",
+    "wabot",
+    "baileys",
+    "md",
+    "multi-device"
+  ],
   "buildpacks": [
   {"url": "heroku/nodejs"},
   {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git​"},
