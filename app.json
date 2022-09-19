@@ -1,9 +1,7 @@
 {
-  "name": "SURENA",
-  "description": "Customizable whatsapp bot",
-  "repository": "https://github.com/SURENABOT/SURENABOT-MD",
-  "logo": "https://s24.picofile.com/file/8453243900/Surena.jpg",
-  "keywords": [
+	"name": "SurenaBot",
+	"description": "Customizable whatsapp bo",
+"keywords": [
     "bot",
     "surena",
     "surenabot",
@@ -14,10 +12,38 @@
     "md",
     "multi-device"
   ],
-  "buildpacks": [
-  {"url": "heroku/nodejs"},
-  {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git​"},
-  {"url": "https://github.com/yespark/heroku-imagemagick-buildpack​"},
-  {"url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git​"}
-  ]
+	"repository": "https://github.com/SURENABOT/SURENABOT-MD",
+	"stack": "container",
+	"env": {
+		"BOT_NAME": {
+			"description": "Your whatsapp bot name",
+			"required": false,
+			"value": "false"
+		},
+		"WM_MSG": {
+			"description": "Messages footer text",
+			"required": false,
+			"value": "false"
+		},
+		"STICKER_PACK": {
+			"description": "Stickers package name",
+			"required": false,
+			"value": "false"
+		},
+		"STICKER_AUTHOR": {
+			"description": "Stickers author name",
+			"required": false,
+			"value": "false"
+		},
+		"STICKER_PACKNAME": {
+			"description": "sticker pack info",
+			"required": true,
+			"value": "❤️,LyFE"
+		}
+	},
+	"addons": [
+		{
+			"plan": "heroku-postgresql"
+		}
+	]
 }
