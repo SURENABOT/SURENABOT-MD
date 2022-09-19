@@ -15,8 +15,9 @@
 
 ## How to run?
 
-* Create an account in [Replit](https://replit.com)
-* In left menu click on ```My Repls``` option
+* Create an account on [Replit](https://replit.com)
+* Click on "My Repls" in the left menu
+* Click the "New Folder" button and create a folder with any name
 
 ---------
 ## UNTUK PENGGUNA HEROKU
