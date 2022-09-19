@@ -1,4 +1,4 @@
-FROM        surenabot/surenabot:md
+FROM        node:lts-buster
 
 LABEL       author="SURENABOT" maintainer="surenawabot@gmail.com"
 
