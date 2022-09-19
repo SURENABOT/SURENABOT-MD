@@ -1,6 +1,6 @@
 /** 
- * Dont't edit or remove this file
- * -------------------------------
+ * You can change or add new values ✅
+ * -----------------------------------
  * 
  * Special thanks to adiwajshing/Baileys for Baileys (library)
  *
