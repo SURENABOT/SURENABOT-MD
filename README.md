@@ -27,5 +27,5 @@
  
 ---------
 
-- Developer: [Nextamir](https://github.com/nextamir)
-- Plugins: [HyNO-IR](https://github.com/HyNO-IR)
+- [Nextamir](https://github.com/nextamir) is developer
+- Check [HyNO-IR](https://github.com/HyNO-IR) for additional plugins
