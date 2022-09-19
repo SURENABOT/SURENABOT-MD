@@ -25,7 +25,7 @@
 8. In your whatsapp app click on ```Linked devices``` options and click on ```LINK A DEVICE``` button
 9. Scan QR code on replit terminal using your whatsapp camera
 
-  Now enjoy [SURENA](https://github.com/SURENABOT)!
+## Now enjoy [SURENA](https://github.com/SURENABOT)!
 
 ---------
 ## UNTUK PENGGUNA HEROKU
