@@ -3,6 +3,6 @@ let handler = async (m) => {
     process.send('reset')
 }
 handler.command = /^(restart)$/i
+handler.owner = true
 
 module.exports = handler
-handler.owner = true
