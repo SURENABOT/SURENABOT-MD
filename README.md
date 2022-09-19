@@ -15,7 +15,7 @@
 
 ## How to run?
 
-* Create an account on [Replit](https://replit.com)
+* Create an account on [![Replit[](https://repl.it/badge/github/quiec/whatsasena](https://replit.com))](https://replit.com)
 * Click on "My Repls" in the left menu
 * Click the "New Folder" button and create a folder with any name
 
