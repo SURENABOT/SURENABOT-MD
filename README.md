@@ -7,7 +7,6 @@
 <a href="https://github.com/SURENABOT/SURENABOT-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/SURENABOT/SURENABOT-MD?label=Contributors&color=blue&style=flat-square"></a>
 <a href="https://github.com/SURENABOT/SURENABOT-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/SURENABOT/SURENABOT-MD?label=Issues&color=success&style=flat-square"></a>
 <a href="https://github.com/SURENABOT/SURENABOT-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/SURENABOT/SURENABOT-MD?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/SURENABOT/SURENABOT-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/SURENABOT/SURENABOT-MD?label=PullRequest&color=red&style=flat-square"></a>
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fokusdotid/Family-MD)
