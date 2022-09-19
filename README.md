@@ -15,7 +15,8 @@
 
 ## How to run?
 
-* Create an account [Replit](https://replit.com)
+* Create an account in [Replit](https://replit.com)
+* In left menu click on ```My Repls``` option
 
 ---------
 ## UNTUK PENGGUNA HEROKU
