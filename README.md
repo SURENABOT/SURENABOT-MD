@@ -20,7 +20,7 @@
 3. Click the ```New Folder``` button and create a folder with any name you want
 4. Open folder and click on ```New Repl``` button
 5. Click on ```Import from GitHub``` options
-6. Insert https://github.com/SURENABOT/SURENABOT-MD in GitHub URL
+6. Insert https://github.com/SURENABOT/SURENABOT-MD in GitHub URL and click on ```Import from GitHub``` button
 
 ---------
 ## UNTUK PENGGUNA HEROKU
