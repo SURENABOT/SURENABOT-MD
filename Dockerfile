@@ -1,6 +1,5 @@
 FROM ubuntu:18.04
 RUN apt-get update && \
-  apt-get install npm -y\
   apt-get install -y \
   ffmpeg \
   imagemagick \
