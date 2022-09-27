@@ -8,4 +8,4 @@ RUN apt-get update && \
   rm -rf /var/lib/apt/lists/*
 COPY package.json .
 RUN npm install
-CMD ["node", "index.js", "npm"]
+CMD ["node", "index.js"]
