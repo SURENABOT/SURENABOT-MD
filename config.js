@@ -41,8 +41,8 @@
 let fs = require('fs')
 
 // ====== Bot setting ====== \\
-global.bot = 'SURENA',
-global.wm = 'SURENA',
+global.bot = process.env.BOT_NAME,
+global.wm = process.env.STICKER_PACK,
 
 // ====== Stickers WM ====== \\
 global.packname = bot,
