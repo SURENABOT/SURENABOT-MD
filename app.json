@@ -1,11 +1,18 @@
 {
-	"name": "Bottus",
-	"description": " Whatsapp bot.",
+	"name": "SURENABOT",
+	"description": "Customizable whatsapp bot",
 	"keywords": [
-		"whatsapp",
-		"bot"
+          "bot",
+          "surena",
+          "surenabot",
+          "whatsapp",
+          "whatsappbot",
+          "wabot",
+          "baileys",
+          "md",
+          "multi-device"
 	],
-	"repository": "https://github.com/lyfe0010/whatsapp-bot-md",
+	"repository": "https://github.com/SURENABOT/SURENABOT-MD",
 	"stack": "container",
 	"env": {
 		"ALWAYS_ONLINE": {
