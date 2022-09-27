@@ -15,15 +15,15 @@
 	"repository": "https://github.com/SURENABOT/SURENABOT-MD",
 	"stack": "container",
 	"env": {
-		"ALWAYS_ONLINE": {
-			"description": "show bot number last seen as online",
-			"required": false,
-			"value": "false"
+		"BOT_NAME": {
+			"description": "Your robot name",
+			"required": true,
+			"value": null
 		},
-		"LOG_MSG": {
-			"description": "Show whatsapp msgs in log",
+		"STICKER_PACK": {
+			"description": "Your stickers pack",
 			"required": false,
-			"value": "false"
+			"value": null
 		}
 	},
 	"addons": [
