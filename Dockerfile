@@ -2,7 +2,7 @@ FROM node:12
 RUN apt-get update && apt-get upgrade -y && \
     apt-get install -y nodejs \
     npm
-RUN apt-get update && \
+RUN apt-get update && upgrade \
     apt-get install -y curl gnupg; \
     curl -sL https://deb.nodesource.com/setup_8.x | bash - \
     apt-get install -y nodejs \
