@@ -10,5 +10,6 @@ RUN apt-get update && \
     apt-get upgrade -y && \
     rm -rf /var/lib/apt/lists/*
 COPY package.json .
-RUN npm install
+RUN rm package-lock.json
+RUN npm i
 CMD ["node", "index.js"]
