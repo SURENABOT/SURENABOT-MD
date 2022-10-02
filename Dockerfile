@@ -1,7 +1,6 @@
 FROM node:12
-RUN git clone https://github.com/SURENABOT/SURENABOT-MD.git
 WORKDIR /SURENABOT-MD
-RUN yarn install
-RUN yarn add re2
-RUN node .
+COPY package*.json ./
+RUN npm install
+COPY . .
 CMD ["node", "index.js"]
