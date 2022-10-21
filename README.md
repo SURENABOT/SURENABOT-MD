@@ -10,7 +10,6 @@
 
 ## WHATSAPP GROUP
 [![BOT DISCUSSION GROUP](https://img.shields.io/badge/SURENA%20ENGLISH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlPeRbssqcdILgreqcYBR8)
-[![QR SCANNER](https://www.picofile.com/Panel?rnd=lcbvtiyu)](https://chat.whatsapp.com/JlPeRbssqcdILgreqcYBR8)
 
 ## SETUP
 
