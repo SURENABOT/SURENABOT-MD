@@ -13,6 +13,7 @@
 
 ## REQUIRED FOR DEPLOY
 [![DEPLOY ON HEROKU](https://www.herokucdn.com/deploy/button.svg)]([https://chat.whatsapp.com/JlPeRbssqcdILgreqcYBR8](https://heroku.com/deploy?template=https://github.com/SURENABOT/SURENABOT-MD))
+[![QR CODE SCANNER](https://vercel.com/button)](https://surenaqr.vercel.app/)
 
 ## SETUP
 
