@@ -9,8 +9,8 @@
 <a href="https://github.com/SURENABOT/SURENABOT-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/SURENABOT/SURENABOT-MD?label=PullRequest&color=success&style=flat-square"></a>
 
 ## WHATSAPP GROUP
-[![ENGLISH](https://img.shields.io/badge/SURENA%20ENGLISH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlPeRbssqcdILgreqcYBR8)
-[![PERSIAN](https://img.shields.io/badge/SURENA%20PERSIAN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CSXb2AMYk2xJfunWneaiMa)
+[![ENGLISH](https://img.shields.io/badge/ENGLISH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlPeRbssqcdILgreqcYBR8)
+[![PERSIAN](https://img.shields.io/badge/PERSIAN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CSXb2AMYk2xJfunWneaiMa)
 
 ## REQUIRED FOR DEPLOY
 [![DEPLOY ON HEROKU](https://www.herokucdn.com/deploy/button.svg)]([https://chat.whatsapp.com/JlPeRbssqcdILgreqcYBR8](https://heroku.com/deploy?template=https://github.com/SURENABOT/SURENABOT-MD))
