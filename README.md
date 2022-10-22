@@ -17,7 +17,7 @@
 2. [Click here](https://surenaqr.vercel.app/) and then scan QR code through your whatsapp camera.
 3. You will get a session ID on WhatsApp, just copy the ID.
 4. If you don't have an account on [heroku](https://heroku.com), create one.
-5. [Click here](https://surenaqr.vercel.app/) and deploy surena on your whatsapp account.
+5. [Click here](https://heroku.com/deploy?template=https://github.com/SURENABOT/SURENABOT-MD) and deploy surena on your whatsapp account.
  
 ---------
 
