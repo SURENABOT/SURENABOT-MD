@@ -28,3 +28,6 @@
 
 - [Nextamir](https://github.com/nextamir) is developer
 - Check [HyNO-IR](https://github.com/HyNO-IR) for additional plugins
+
+[![Nurutomo](https://ibb.co/mDJf9wq/Picsart-22-10-22-18-20-13-283.jpg)](https://github.com/Nurutomo)
+[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
