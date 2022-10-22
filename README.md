@@ -10,6 +10,7 @@
 
 ## WHATSAPP GROUP
 [![SURENA ENGLISH](https://img.shields.io/badge/SURENA%20ENGLISH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlPeRbssqcdILgreqcYBR8)
+[![SURENA PERSIAN](https://img.shields.io/badge/SURENA%20PERSIAN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CSXb2AMYk2xJfunWneaiMa)
 
 ## REQUIRED FOR DEPLOY
 [![DEPLOY ON HEROKU](https://www.herokucdn.com/deploy/button.svg)]([https://chat.whatsapp.com/JlPeRbssqcdILgreqcYBR8](https://heroku.com/deploy?template=https://github.com/SURENABOT/SURENABOT-MD))
