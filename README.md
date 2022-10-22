@@ -9,6 +9,9 @@
 <a href="https://github.com/SURENABOT/SURENABOT-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/SURENABOT/SURENABOT-MD?label=PullRequest&color=success&style=flat-square"></a>
 
 ## WHATSAPP GROUP
+[![SURENA ENGLISH](https://img.shields.io/badge/SURENA%20ENGLISH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlPeRbssqcdILgreqcYBR8)
+
+## REQUIRED FOR DEPLOY
 [![BOT DISCUSSION GROUP](https://img.shields.io/badge/SURENA%20ENGLISH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlPeRbssqcdILgreqcYBR8)
 
 ## SETUP
