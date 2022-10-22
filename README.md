@@ -13,9 +13,11 @@
 
 ## SETUP
 
-1. Click on the ```Linked devices``` option in your whatsApp application and then click on the ```LINK A DEVICE``` button
-2. [Click here](https://surenaqr.vercel.app/) and then scan QR code through your whatsapp camera
-3. You will get a session ID on WhatsApp, `rgb(9, 105, 218)` just copy the ID.
+1. Click on the ```Linked devices``` option in your whatsapp application and then click on the ```LINK A DEVICE``` button.
+2. [Click here](https://surenaqr.vercel.app/) and then scan QR code through your whatsapp camera.
+3. You will get a session ID on WhatsApp, just copy the ID.
+4. If you don't have an account on [heroku](https://heroku.com), create one.
+5. [Click here](https://surenaqr.vercel.app/) and deploy surena on your whatsapp account.
  
 ---------
 
