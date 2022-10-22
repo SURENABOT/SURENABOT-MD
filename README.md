@@ -15,7 +15,7 @@
 
 1. Click on the ```Linked devices``` option in your whatsApp application and then click on the ```LINK A DEVICE``` button
 2. [Click here](https://surenaqr.vercel.app/) and then scan QR code through your whatsapp camera
-3. You will get a session ID on WhatsApp, `just copy the ID`.
+3. You will get a session ID on WhatsApp, `#000000` just copy the ID.
  
 ---------
 
