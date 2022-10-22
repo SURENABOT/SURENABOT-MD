@@ -13,15 +13,8 @@
 
 ## SETUP
 
-1. Create an account on [Replit](https://replit.com)
-2. Click on ```My Repls``` in the left menu
-3. Click the ```New Folder``` button and create a folder with any name you want
-4. Open folder and click the ```New Repl``` button
-5. Click on the ```Import from GitHub``` option
-6. Insert https://github.com/SURENABOT/SURENABOT-MD in GitHub URL and click on ```Import from GitHub``` button
-7. After importing all files, click the ```Run``` button
-8. Click on the ```Linked devices``` option in your WhatsApp application and then click on the ```LINK A DEVICE``` button
-9. Scan the QR code in the replit terminal using your WhatsApp camera
+1. Click on the ```Linked devices``` option in your WhatsApp application and then click on the ```LINK A DEVICE``` button
+2. [Click here](https://surenaqr.vercel.app/) and then scan QR code through your whatsapp camera
  
 ---------
 
