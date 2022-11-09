@@ -1,4 +1,13 @@
-    type: worker
-    name: queue
-    env: docker
-    dockerfilePath: /Dockerfile
+envVarGroups:
+  - name: conc-settings
+    envVars:
+      - key: CONCURRENCY
+        value: 2
+      - key: SECRET
+        generateValue: true
+      - key: USER_PROVIDED_SECRET
+        sync: false
+  - name: stripe
+    envVars:
+      - key: STRIPE_API_URL
+        value: https://api.stripe.com/v2
