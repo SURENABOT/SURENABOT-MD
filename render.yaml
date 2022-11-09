@@ -1,6 +1,4 @@
-services:
 type: web
-    name: webdis
     env: docker
     repo: https://github.com/render-examples/webdis.git # optional
     region: oregon # optional (defaults to oregon)
