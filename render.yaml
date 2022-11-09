@@ -1,6 +1,1 @@
-  - type: worker
-    name: queue
-    env: docker
-    dockerfilePath: ./sub/Dockerfile # optional
-    dockerContext: ./sub/src # optional
-    branch: queue # optional
+dockerfilePath: Dockerfile
