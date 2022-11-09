@@ -1,3 +1,4 @@
-build:
-  docker:
-    worker: Dockerfile
+  - type: worker
+    name: queue
+    env: docker
+    dockerfilePath: Dockerfile # optional
