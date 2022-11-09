@@ -1,4 +1,4 @@
-  - type: worker
+  - type: npm i
     name: queue
     env: docker
     dockerfilePath: Dockerfile # optional
