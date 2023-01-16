@@ -8,13 +8,14 @@
 <a href="https://github.com/SURENABOT/SURENABOT-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/SURENABOT/SURENABOT-MD?label=Issues&color=success&style=flat-square"></a>
 <a href="https://github.com/SURENABOT/SURENABOT-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/SURENABOT/SURENABOT-MD?label=PullRequest&color=success&style=flat-square"></a>
 
-## WHATSAPP GROUP
-[![ENGLISH](https://img.shields.io/badge/SURENA%20EN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlPeRbssqcdILgreqcYBR8)
-[![PERSIAN](https://img.shields.io/badge/SURENA%20FA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CSXb2AMYk2xJfunWneaiMa)
+## Simple method
 
-## REQUIRED FOR DEPLOY
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SURENABOT/SURENABOT-MD)
-[![QR CODE SCANNER](https://vercel.com/button)](https://surenaqr.vercel.app/)
+You can activate Surena wabot in your whatsapp account without any [vps](https://en.wikipedia.org/wiki/Virtual_private_server) or [paas](https://en.wikipedia.org/wiki/Platform_as_a_service), just with your phone!<br>Activating Surena using this method is free and we recommend that you activate Surena using this method.<br>To activate Surena using this method you need to follow 5 simple steps:
+
+1. Click on the _Linked devices_ 	`#RRGGBB` option in whatsapp application and then click on the ```LINK A DEVICE``` button.
+2. [Click here](https://surenaqr.vercel.app/) and then scan QR code through your whatsapp camera.
+
+Done! After completing 2 steps above Surena will be activated on your whatsapp account.
 
 ## SETUP
 
