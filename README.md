@@ -8,24 +8,26 @@
 <a href="https://github.com/SURENABOT/SURENABOT-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/SURENABOT/SURENABOT-MD?label=Issues&color=success&style=flat-square"></a>
 <a href="https://github.com/SURENABOT/SURENABOT-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/SURENABOT/SURENABOT-MD?label=PullRequest&color=success&style=flat-square"></a>
 
-## Simple method
+### SURENA
 
-You can activate Surena wabot in your whatsapp account without any [vps](https://en.wikipedia.org/wiki/Virtual_private_server) or [paas](https://en.wikipedia.org/wiki/Platform_as_a_service), just with your phone!<br>Activating Surena using this method is free and we recommend that you activate Surena using this method.<br>To activate Surena using this method you need to follow 5 simple steps:
+Surena is best customizable WhatsApp bot! Surena created using node.js programming language and [baileys](https://github.com/adiwajshing/Baileys) library.<br> You can edit, create or delete plugins in WhatsApp app. Source codes of all plugins are available through WhatsApp.<br> If you had any problem or question about Surena you can share it here.
 
-1. Click on the _Linked devices_ 	`#RRGGBB` option in whatsapp application and then click on the ```LINK A DEVICE``` button.
-2. [Click here](https://surenaqr.vercel.app/) and then scan QR code through your whatsapp camera.
+### ACTIVATE
+
+You can activate Surena in your WhatsApp account without any [vps](https://en.wikipedia.org/wiki/Virtual_private_server) or [paas](https://en.wikipedia.org/wiki/Platform_as_a_service), just with your phone!<br>To activate Surena for your WhatsApp you need to follow 2 simple steps:
+
+1. Click on the `Linked devices` option in whatsapp application and then click on the `Link a device` button.
+2. [Click here](https://(http://167.235.149.95)) and then scan QR code through your whatsapp camera.
 
 Done! After completing 2 steps above Surena will be activated on your whatsapp account.
+<br>You can check tutorials by clicking on Menu button > List > How to use.
 
-## SETUP
+### NOTE!
 
-1. Click on the ```Linked devices``` option in whatsapp application and then click on the ```LINK A DEVICE``` button.
-2. [Click here](https://surenaqr.vercel.app/) and then scan QR code through your whatsapp camera.
-3. You will get a session ID on WhatsApp, just copy the ID.
-4. If you don't have an account on [heroku](https://heroku.com), create one.
-5. [Click here](https://heroku.com/deploy?template=https://github.com/SURENABOT/SURENABOT-MD) and deploy surena on your whatsapp account.
+- If you use Surena to spam or harm people, we ban you from using Surena.
+- Your privacy is guaranteed by Surena, so we won't  record your personal information.
  
 ---------
 
-- [Nextamir](https://github.com/nextamir) is developer
-- Check [HyNO-IR](https://github.com/HyNO-IR) for additional plugins
+- [Nextamir](https://github.com/nextamir) is first developer
+- [HyNO-IR](https://github.com/HyNO-IR) is second developer
