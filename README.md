@@ -17,7 +17,7 @@ Surena is best customizable WhatsApp bot! Surena created using node.js programmi
 You can activate Surena in your WhatsApp account without any [vps](https://en.wikipedia.org/wiki/Virtual_private_server) or [paas](https://en.wikipedia.org/wiki/Platform_as_a_service), just with your phone!<br>To activate Surena for your WhatsApp you need to follow 2 simple steps:
 
 1. Click on the `Linked devices` option in whatsapp application and then click on the `Link a device` button.
-2. [Click here](https://(http://167.235.149.95)) and then scan QR code through your whatsapp camera.
+2. [Click here](http://167.235.149.95) and then scan QR code through your whatsapp camera.
 
 Done! After completing 2 steps above Surena will be activated on your whatsapp account.
 <br>You can check tutorials by clicking on Menu button > List > How to use.
