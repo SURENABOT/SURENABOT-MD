@@ -10,7 +10,7 @@
 
 ### SURENA
 
-Surena is best customizable WhatsApp bot! Surena created using node.js programming language and [baileys](https://github.com/adiwajshing/Baileys) library.<br> You can edit, create or delete plugins in WhatsApp app. Source codes of all plugins are available through WhatsApp.<br> If you had any problem or question about Surena you can share it here.
+Surena is best customizable WhatsApp bot! Surena created using node.js programming language and [baileys](https://github.com/adiwajshing/Baileys) library. You can edit, create or delete plugins in WhatsApp app. Source codes of all plugins are available through WhatsApp. If you had any problem or question about Surena you can share it here.
 
 ### ACTIVATE
 
