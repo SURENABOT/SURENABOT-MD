@@ -29,5 +29,11 @@ Done! After completing 2 steps above Surena will be activated on your whatsapp a
  
 ---------
 
-- [Nextamir](https://github.com/nextamir) is first developer
-- [HyNO-IR](https://github.com/HyNO-IR) is second developer
+##### Surena Developer
+
+[![Nextamir](https://github.com/Nextamir.png?size=100)](https://github.com/Nextamir)
+
+##### Special Thanks to
+
+[![HyNO-IR](https://github.com/HyNO-IR.png?size=100)](https://github.com/HyNO-IR)
+[![adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)
